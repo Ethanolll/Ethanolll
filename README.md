@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Natural%20Coding&fontSize=80"/>
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h3>📚 STACKS</h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
