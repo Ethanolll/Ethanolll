@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Nature's%20Github&fontSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=🌼%20Nature's%20Github%20🌼&fontSize=30"/>
 
 <h3>📚STACKS📚</h3>
 <div>
