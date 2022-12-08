@@ -20,3 +20,5 @@
   <img src="https://img.shields.io/badge/Figma-E782FF?style=for-the-badge&logo=Figma&logoColor=white">
   <br>
 </div>
+
+![Nature's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethanolll&show_icons=true&theme=cobalt)
