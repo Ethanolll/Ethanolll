@@ -1,4 +1,4 @@
-<h1 align=center>Nature's Github</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffffff&height=50&section=header&text=Nature's%20Github&fontSize=50)
 <h3 align=center>✨ Skills ✨</h3>
 <div align=center>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
