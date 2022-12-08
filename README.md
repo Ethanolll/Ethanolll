@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=🌼%20Nature's%20Github%20🌼&fontSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=Nature's%20Github&fontSize=30"/>
 
 <h3 align=center>✨ Skills ✨</h3>
 <div align=center>
@@ -22,3 +22,5 @@
 | ![Nature's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethanolll&show_icons=true&theme=cobalt) | <a href="https://github.com/Ethanolll/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethanolll&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=footer)
