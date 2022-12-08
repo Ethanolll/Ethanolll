@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Nature's%20Github&fontSize=30"/>
 
-<div align=center> 
-  <h3>📚STACKS📚</h3>
+<h3>📚STACKS📚</h3>
+<div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Figma-E782FF?style=for-the-badge&logo=Figma&logoColor=white">
   <br>
 </div>
+
 
 <div align=center>
 <br>
