@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=🌼%20Nature's%20Github%20🌼&fontSize=30"/>
 
 <h3 align=center>✨ Skills ✨</h3>
-<br>
 <div align=center>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
