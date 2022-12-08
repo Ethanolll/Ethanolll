@@ -18,12 +18,6 @@
 </div>
 
 <br> 
-<div align=center>
-  
-
-
-</div>
 
 | ![Nature's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethanolll&show_icons=true&theme=cobalt) | <a href="https://github.com/Ethanolll/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethanolll&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-  
